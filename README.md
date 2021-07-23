@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandana</h1>
-<h3 align="center">A passionate Automation and DevOps Enthusiasist from India</h3>
+<h3 align="center">A passionate Automation and DevOps Enthusiast from India</h3>
 
 - 🔭 I’m currently working on **DevOps**
 
@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Building CI/CD Pipeline**
 
-- 💬 Ask me about **Docker , Jenkins**
+- 💬 Ask me about **Docker,Jenkins**
 
 - 📫 How to reach me **chandana.vasudeva.1995@gmail.com**
 
